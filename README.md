@@ -36,7 +36,7 @@ pip (Python package manager)
 
 Step 1: Clone or Download
 bash# Clone the repository (or download ZIP)
-git clone https://github.com/yourusername/price-tracker-extension.git
+https://github.com/sarjanthecoder/CHROME-extension-product-price-tracker-in-flipkart-amazon-meesho-.git
 cd price-tracker-extension
 Step 2: Install Python Dependencies
 bashpip install flask flask-cors requests beautifulsoup4
@@ -272,8 +272,7 @@ Unsplash for placeholder images
 For issues, questions, or suggestions:
 
 Open an issue on GitHub
-Email: support@pricetracker.com
-Twitter: @pricetracker
+Email: sarjan6325@gmail.com
 
 🗺️ Roadmap
 
@@ -287,5 +286,5 @@ Twitter: @pricetracker
  Browser sync across devices
 
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [sarjan p]
 Star ⭐ this repo if you find it useful!
