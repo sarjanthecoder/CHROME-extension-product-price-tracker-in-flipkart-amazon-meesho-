@@ -291,5 +291,5 @@ Email: sarjan6325@gmail.com
 
 Made with ❤️ by [sarjan p]
 Star ⭐ this repo if you find it useful!
-Diaclaimer :   this is for only  demo puposes  dont pay your here if any missuses or lose we csnt a responsibility to u .
+<h1>DISCLAIMER</h1>:   this is for only  demo puposes  dont pay your here if any missuses or lose we csnt a responsibility to u .
 
