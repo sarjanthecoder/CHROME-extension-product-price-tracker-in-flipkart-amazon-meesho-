@@ -1,3 +1,4 @@
+#maim file for chrome extension
 {
   "manifest_version": 3,
   "name": "Price Tracker",
@@ -19,4 +20,5 @@
     "48": "icon.png",
     "128": "icon.png"
   }
+
 }
