@@ -23,8 +23,11 @@ Quick product tracking interface
 Price Cards
 
 Current price display
+
 Lowest/Highest price comparison
+
 Deal status badges (Great Deal/Fair/High Price)
+
 Direct links to products
 
 🚀 Installation
