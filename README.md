@@ -292,4 +292,6 @@ Email: sarjan6325@gmail.com
 Made with ❤️ by [sarjan p]
 Star ⭐ this repo if you find it useful!
 <h1>DISCLAIMER</h1>:   this is for only  demo puposes  dont pay your here if any missuses or lose we csnt a responsibility to u .
+customize tour wish this project fully open source
+
 
